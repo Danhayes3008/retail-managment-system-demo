@@ -21,12 +21,26 @@ nav {
   height: 25vh;
 }
 
-.nav-list {
+.nav-items {
   height: 75vh;
+}
+
+.nav-list {
+  height: 100%;
+  list-style: none;
 }
 
 .wk-nbr {
   font-size: 40px;
   color: white;
   padding-top: 3vh;
+}
+
+.list-item {
+  height: 14.28%;
+}
+
+.list-item a{
+  position: relative;
+  top: 40%;
 }

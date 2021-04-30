@@ -2,7 +2,7 @@
 
 const Navbar = () => {
     return (
-        <div>
+        <div className="nav">
             <nav className="navbar">
                 <div className="nav-details">
                     <h3 className="wk-nbr">WK 32</h3>

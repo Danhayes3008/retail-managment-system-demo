@@ -37,10 +37,12 @@ nav {
 }
 
 .list-item {
-  height: 14.28%;
+  height: 12%;
 }
 
 .list-item a{
-  position: relative;
-  top: 40%;
+  display: block;
+  width: 100%;
+  padding-top: 12.5%;
+  padding-bottom: 12.5%;
 }

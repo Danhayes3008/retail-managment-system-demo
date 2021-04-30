@@ -6,8 +6,8 @@ const Navbar = () => {
             <nav className="navbar">
                 <div className="nav-details">
                     <h3 className="wk-nbr">WK 32</h3>
-                    <h4 className="user">Daniel Hayes</h4>
-                    <h4 className="date-time">30-04-2021  10:31</h4>
+                    <p className="user">Daniel Hayes</p>
+                    <p className="date-time">30-04-2021  10:31</p>
                 </div>
                 <div className="nav-items">
                     <ul className="nav-list">

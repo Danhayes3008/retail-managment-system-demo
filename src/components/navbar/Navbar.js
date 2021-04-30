@@ -11,13 +11,13 @@ const Navbar = () => {
                 </div>
                 <div className="nav-items">
                     <ul className="nav-list">
-                        <li className="list-item">Schedules</li>
-                        <li className="list-item">Requests</li>
-                        <li className="list-item">Exceptions</li>
-                        <li className="list-item">Payroll</li>
-                        <li className="list-item">Forcasting</li>
-                        <li className="list-item">personnel</li>
-                        <li className="list-item">Logout</li>
+                        <li className="list-item"><a href="Schedules">Schedules</a></li>
+                        <li className="list-item"><a href="Requests">Requests</a></li>
+                        <li className="list-item"><a href="Exceptions">Exceptions</a></li>
+                        <li className="list-item"><a href="Payroll">Payroll</a></li>
+                        <li className="list-item"><a href="Forcasting">Forcasting</a></li>
+                        <li className="list-item"><a href="personnel">personnel</a></li>
+                        <li className="list-item"><a href="Logout">Logout</a></li>
                     </ul>
                 </div>
             </nav>

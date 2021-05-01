@@ -10,6 +10,7 @@
   width: 84%;
   background-color: white;
   height: 46%;
+  overflow-y: scroll;
 }
 
 nav {
@@ -79,9 +80,10 @@ nav {
 }
 
 .subject-id {
-  height: 100%;
-  width: 5px;
+  height: 15px;
+  width: 15px;
   background-color: blue;
+  border-radius: 20px;
 }
 
 

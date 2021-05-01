@@ -46,3 +46,9 @@ nav {
   padding-top: 12.5%;
   padding-bottom: 12.5%;
 }
+
+.user{
+	padding-top: 5vh;
+	font-size: 30px;
+	font-weight: bold;
+}

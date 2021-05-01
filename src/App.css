@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+
+.activity {
+  position: fixed;
+  top: 52%;
+  left: 15%;
+  margin: 0.5%;
+  width: 84%;
+  background-color: white;
+  height: 46%;
+}
+
 nav {
   height: 100%;
 }
@@ -43,7 +54,7 @@ nav {
   border-bottom: 1px solid #3668ff;
 }
 
-.list-item a{
+.list-item a {
   display: block;
   width: 100%;
   padding-top: 12.5%;
@@ -54,8 +65,8 @@ nav {
   color: white;
 }
 
-.user{
-	padding-top: 5vh;
-	font-size: 30px;
-	font-weight: bold;
+.user {
+  padding-top: 5vh;
+  font-size: 30px;
+  font-weight: bold;
 }

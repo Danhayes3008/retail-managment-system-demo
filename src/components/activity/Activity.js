@@ -2,8 +2,8 @@ import React from 'react'
 
 const Activity = () => {
     return (
-        <div>
-            
+        <div className="activity">
+            <h1>Activity History</h1>
         </div>
     )
 }
